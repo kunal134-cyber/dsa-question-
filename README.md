@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/kunal134-cyber/dsa-question-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunal134-cyber/dsa-question-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/kunal134-cyber/dsa-question-/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal134-cyber/dsa-question-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -28,4 +29,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunal134-cyber/dsa-question-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/kunal134-cyber/dsa-question-/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
