@@ -6,14 +6,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kunal134-cyber/dsa-question-/tree/main/0001-two-sum/) | Easy |
+| [0088-merge-sorted-array](https://github.com/kunal134-cyber/dsa-question-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal134-cyber/dsa-question-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/kunal134-cyber/dsa-question-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal134-cyber/dsa-question-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/kunal134-cyber/dsa-question-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal134-cyber/dsa-question-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
