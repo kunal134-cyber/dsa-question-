@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/kunal134-cyber/dsa-question-/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kunal134-cyber/dsa-question-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunal134-cyber/dsa-question-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/kunal134-cyber/dsa-question-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal134-cyber/dsa-question-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -39,4 +40,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/kunal134-cyber/dsa-question-/tree/main/0344-reverse-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kunal134-cyber/dsa-question-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
